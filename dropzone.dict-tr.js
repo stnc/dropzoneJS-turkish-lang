@@ -5,8 +5,8 @@
  * @lang-ISO tr-TR
  *
  * @author SELMAN TUNÇ @stnc
- * @license Public Domain 
- * @see http://github.com/sople1/dropzone-dict-ko
+ * @license MIT 
+ * @see https://github.com/stnc/dropzoneJS-turkish-lang
  */
 
 Dropzone.prototype.defaultOptions.dictDefaultMessage
