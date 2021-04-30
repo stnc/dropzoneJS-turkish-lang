@@ -20,7 +20,7 @@ Dropzone.prototype.defaultOptions.dictFallbackText
   = "Dosyalarınızı varsayılan şekilde gibi yüklemek için lütfen aşağıdaki formu kullanın.";
 Dropzone.prototype.defaultOptions.dictFileTooBig
 //  = "File is too big ({{filesize}}MB). Max filesize: {{maxFilesize}}MB.";
-  = "Dosya çok büyük ({{dosya}} MB). Maksimum dosya boyutu: {{maxFilesize}} MB.";
+  = "Dosya çok büyük ({{filesize}} MB). Maksimum dosya boyutu: {{maxFilesize}} MB.";
 Dropzone.prototype.defaultOptions.dictInvalidFileType
 //  = "You can't upload files of this type.";
   = "Bu türdeki dosyaları yükleyemezsiniz.";
